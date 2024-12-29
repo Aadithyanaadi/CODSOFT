@@ -93,8 +93,8 @@ A comprehensive command-line contact management tool to store and manage persona
 ## **How to Run**  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/aadithyan-arunagiri/codsoft-internship.git  
-   cd codsoft 
+   git clone https://github.com/Aadithyanaadi/CODSOFT.git
+   cd CODSOFT 
    ```  
 2. Run the Python scripts using the command line:  
    ```bash  
