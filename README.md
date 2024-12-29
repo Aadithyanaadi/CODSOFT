@@ -130,4 +130,3 @@ This project was developed as part of the CODSOFT Internship program. Special th
 - **Email**: aadithyan0505@gmail.com  
 - **LinkedIn**: [Aadithyan Arunagiri](https://www.linkedin.com/in/aadithyanarunagiri/)  
 - **Portfolio**: [aadithyanarunagiri.netlify.app](https://aadithyanarunagiri.netlify.app/)
-- 
